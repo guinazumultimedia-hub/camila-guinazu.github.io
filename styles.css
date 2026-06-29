@@ -1,12 +1,12 @@
 @font-face {
   font-family: 'Zekton';
-  src: url('fonts/Zekton-Regular.woff2') format('woff2');
+  src: url('Zekton-Regular.woff2') format('woff2');
   font-style: normal;
 }
 
 @font-face {
   font-family: 'Oxanium';
-  src: url('./fonts/Oxanium-Regular.otf') format('opentype');
+  src: url('Oxanium-Regular.otf') format('opentype');
   font-weight: normal;
   font-style: normal;
 }
