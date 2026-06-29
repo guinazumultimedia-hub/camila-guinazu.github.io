@@ -1158,14 +1158,6 @@ textarea {
     width: 100% !important;
     border-radius: 16px;
   }
-
-.item::before{
-    content:"";
-    display:block;
-    width:100%;
-    height:200px;  
-    background:red;
-}
   
 }
 
