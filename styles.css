@@ -1,14 +1,13 @@
 @font-face {
-  font-family: 'Zekton';
-  src: url('Zekton-Regular.woff2') format('woff2');
-  font-style: normal;
+    font-family: "Zekton";
+    src: url("Fonts/Zekton-Regular.woff2") format("woff2");
+    font-display: swap;
 }
 
 @font-face {
-  font-family: 'Oxanium';
-  src: url('Oxanium-Regular.otf') format('opentype');
-  font-weight: normal;
-  font-style: normal;
+    font-family: "Oxanium";
+    src: url("Fonts/Oxanium-Regular.woff2") format("woff2");
+    font-display: swap;
 }
 
 :root {
