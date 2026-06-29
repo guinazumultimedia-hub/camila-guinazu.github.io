@@ -606,26 +606,29 @@ p {
     margin-bottom:10px;
   }
 
-  .item[data-img="Fotos/Web-Bathor.png"]::before{
-    background-image:url("Fotos/Web-Bathor.png");
+  .item[data-img="Web-Bathor.png"]::before{
+    background-image:url("Web-Bathor.png");
   }
 
-  .item[data-img="Fotos/Web-Arabella.png"]::before{
-    background-image:url("Fotos/Web-Arabella.png");
+  .item[data-img="Web-Arabella.png"]::before{
+    background-image:url("Web-Arabella.png");
   }
 
-  .item[data-img="Fotos/Motion-Discovery.png"]::before{
-    background-image:url("Fotos/Motion-Discovery.png");
+  .item[data-img="Motion-Discovery.png"]::before{
+    background-image:url("Motion-Discovery.png");
   }
 
-  .item[data-img="Fotos/Defensas-Urbanas.png"]::before{
-    background-image:url("Fotos/Defensas-Urbanas.png");
+  .item[data-img="Defensas-Urbanas.png"]::before{
+    background-image:url("Defensas-Urbanas.png");
   }
 
-  .item[data-img="Fotos/Batting-Caos.png"]::before{
-    background-image:url("Fotos/Batting-Caos.png");
+  .item[data-img="Batting-Caos.png"]::before{
+    background-image:url("Batting-Caos.png");
   }
 
+  .item[data-img="The Weeknd/The_Weeknd_Horizontal.png"]::before{
+    background-image:url("The Weeknd/The_Weeknd_Horizontal.png");
+  }
 }
 
 
