@@ -628,6 +628,10 @@ p {
   .item[data-img="The Weeknd/The_Weeknd_Horizontal.png"]::before{
     background-image:url("The Weeknd/The_Weeknd_Horizontal.png");
   }
+
+    .item[data-img="Mundial-Foto.png"]::before{
+    background-image:url("Mundial-Foto.png");
+  }
 }
 
 
